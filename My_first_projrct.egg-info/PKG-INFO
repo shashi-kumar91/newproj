@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: My-first-projrct
+Version: 0.0.1
+Author: Shashi
+Author-email: Shashikumar@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: flask
+Requires-Dist: seaborn
